@@ -1,0 +1,11 @@
+numpy
+pandas 
+sklearn
+Flask
+PyYaml
+dill
+scikit_learn
+evidently
+pytest-shutil
+pymongo
+-e .
